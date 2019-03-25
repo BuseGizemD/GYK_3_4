@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gelecegi Yazan Kadınlar</string>
+    <string name="photo_video">Fotoğraf Video</string>
+    <string name="voice_record">Ses Kayıt İşlemi</string>
+    <string name="open_map">Haritaya Git</string>
+    <string name="open_web_view">Web Sayfasına Git</string>
+    <string name="send_sms">Sms Gönder</string>
+    <string name="call">Arama Yap</string>
+</resources>
